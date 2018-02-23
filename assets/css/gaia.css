@@ -191,7 +191,7 @@ a:hover {
 }
 
 .text-danger {
-  color: #e78b90 !important;
+  color: #00bbff !important; #color: #e78b90;
 }
 
 .text-gold,
@@ -243,10 +243,10 @@ a:hover {
 }
 
 .separator-danger {
-  color: #e78b90;
+  color: #00bbff; #color: #e78b90;
 }
 .separator-danger:before, .separator-danger:after {
-  border-color: #e78b90;
+  border-color: #00bbff; #border-color: #e78b90;
 }
 
 p.description {
